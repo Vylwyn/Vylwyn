@@ -1,10 +1,10 @@
 # Vylwyn D’Souza
 
-**I run the IT operations. I also build the tools.**
+**IT Team Leader & Full-Stack Developer — Laravel · Flutter.**
 
-I lead a 22-person IT support and procurement team at Alghanim International in Kuwait, and I've spent seven years building software alongside it — mostly Laravel on the backend and Flutter on mobile.
+Bridging enterprise IT operations with Scalable Software Development.
 
-Most people building internal tools have never run the team that has to use them. I have.
+Specializing in cross-platform mobile apps (Flutter) and dynamic web solutions (Laravel).
 
 📍 Kuwait · 🌐 **[vylwyn.com](https://vylwyn.com)**
 
